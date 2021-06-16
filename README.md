@@ -2,4 +2,4 @@
 
 Responsive Personal Website
 
-<a href="duhanbayrak.com">Website</a>
+<a href="www.duhanbayrak.com">Website</a>
