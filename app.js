@@ -11,7 +11,7 @@ $(document).ready(function () {
       size: 150,
       value: 0.85,
       fill: {gradient: ['#e84545', '#e84545']}
-    }
+    };
     $(".circle .bar").circleProgress(options).on('circle-animation-progress',
     function(event, progress, stepValue){
       $(this).parent().find("span").text(String(stepValue.toFixed(2).substr(2)) + "%");
